@@ -1,0 +1,4 @@
+one_year = 365
+age = int(input("enter age:"))
+days = age*one_year
+print(days)
