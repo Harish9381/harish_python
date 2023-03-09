@@ -1,0 +1,49 @@
+#1#num = int(input("enter a num:"))
+#if num % 2 == 0:
+ #   print('even')
+#else:
+ #   print('odd')
+
+#2
+#text string
+#text = input("enter a text:")
+#string = input("enter a str:")
+#if string in text:
+ #   print("True")
+#else:
+ #   print("False")
+
+#3
+#name = input("enter word:")
+#vowels = ['a','e','i','o','u']
+#for letter in name:
+    #if letter in vowels:
+        #print("true")
+    #else:
+        #print("false")
+        
+#4
+#letter = input("enter letter:").lower()
+#vowel = 'a','e','i','o','u'
+#if letter in vowel:
+    #print("vowel")
+#else:
+    #print("consonant")
+
+#5
+#num1 = float(input("enter num1:"))
+#num2 = float(input("enter num2:"))
+#sub = num2 - num1
+#if sub <= .001:
+    #print("close")
+#else:
+    #print("not close")
+
+#t1 = int(input("enter t1:"))
+#t2 = int(input("enter t2:"))
+#t3 = int(input("enter t3:"))
+#print(f"older is {max(t1,t2,t3)}")
+#3print(f"elder is {min(t1,t2,t3)}")
+
+
+
