@@ -50,9 +50,6 @@
     #if n%3!=0:
         #m.append(n)
         #print(m)
+
 #11  m ="this dog runs faster than the other dog dude!"
 #print(m.count("dog")
-
-eid, *_, age =  (1237, 'Amanda', 'Chemistry', 25000, 45)
-print( type(_))
-
